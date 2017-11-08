@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "msg": "ok",
+  "data": [
+    {
+      "id": "286519",
+      "curroomnum": "93721500969845",
+      "online": 206,
+      "avatar": "https://img.szdmcoffee.com/style/avatar/902/286519.jpg?t=1503229384",
+      "snap": "https://img.szdmcoffee.com/style/avatar/902/286519.jpg?t=1503229384",
+      "city": "火星",
+      "nickname": "Z啪啪",
+      "channel_id": "0",
+      "private": 1,
+      "starttime": "1504005564",
+      "gameType": "2"
+    },
+    {
+      "id": "286528",
+      "curroomnum": "72371500970142",
+      "online": 300,
+      "avatar": "https://img.szdmcoffee.com/style/avatar/440/286528.jpg?t=1503754468",
+      "snap": "https://img.szdmcoffee.com/style/avatar/440/286528.jpg?t=1503754468",
+      "city": "火星",
+      "nickname": "跑车看啪啪啪永久",
+      "channel_id": "0",
+      "private": 0,
+      "starttime": "1504002955",
+      "gameType": "2"
+    },
+    {
+      "id": "294303",
+      "curroomnum": "27831501072679",
+      "online": 208,
+      "avatar": "https://img.szdmcoffee.com/style/avatar/45a/294303.jpg?t=1503669950",
+      "snap": "https://img.szdmcoffee.com/style/avatar/45a/294303.jpg?t=1503669950",
+      "city": "哈尔滨市",
+      "nickname": "Mr多多",
+      "channel_id": "0",
+      "private": 1,
+      "starttime": "1504005025",
+      "gameType": "2"
+    },
+    {
+      "id": "368006",
+      "curroomnum": "41871501760483",
+      "online": 209,
+      "avatar": "https://img.szdmcoffee.com/style/avatar/d6d/368006.jpg?t=1503913087",
+      "snap": "https://img.szdmcoffee.com/style/avatar/d6d/368006.jpg?t=1503913087",
+      "city": "烟台市",
+      "nickname": "mO等待有缘分人",
+      "channel_id": "0",
+      "private": 1,
+      "starttime": "1504005174",
+      "gameType": "2"
+    },
+    {
+      "id": "425751",
+      "curroomnum": "98451503228049",
+      "online": 228,
+      "avatar": "https://img.szdmcoffee.com/style/avatar/524/425751.jpg?t=1503906437",
+      "snap": "https://img.szdmcoffee.com/style/avatar/524/425751.jpg?t=1503906437",
+      "city": "深圳",
+      "nickname": "My傻白甜",
+      "channel_id": "0",
+      "private": 0,
+      "starttime": "1504005204",
+      "gameType": "2"
+    }
+  ]
+}
